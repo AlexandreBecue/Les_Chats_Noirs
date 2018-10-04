@@ -1025,7 +1025,7 @@
     <footer>
         <div class="txt-responsive">
             <a href="#" onclick="afficherContact()">Nous contacter</a> <br>
-            Langue : Français / <a href="Les Chats Noirs.php">English</a>
+            Langue : Français / <a href="Les_Chats_Noirs.php">English</a>
         </div>
     </footer>
 </html>
